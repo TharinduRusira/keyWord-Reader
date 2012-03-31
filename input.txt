@@ -1,0 +1,24 @@
+Keyword List Start 
+Sort	3 
+Search	1 
+tree	1 
+graph	1 
+stack	1 
+Sort	2 
+tree	2 
+queue	2 
+list	10
+sort	1 
+search	3 
+Keyword List End 
+Queries Start 
+First Sort 
+First list 
+List sort 
+List list 
+Keywords 1 
+Keywords 2 
+First edge  
+List Vertex 
+Keywords 5 
+Queries End
